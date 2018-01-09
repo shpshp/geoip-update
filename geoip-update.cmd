@@ -1,3 +1,4 @@
+@echo off
 rem Install msys2 utils first
 md legacy\bin
 md legacy\csv
